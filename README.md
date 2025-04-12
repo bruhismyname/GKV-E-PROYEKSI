@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/bruhismyname/GKV-E-PROYEKSI/blob/main/Screenshots/dimetric_view.png" 
        alt="dimetric_view" 
-       width="auto" height="500">
+       width="500" height="auto">
   
 # GKV-E-PROYEKSI
 
